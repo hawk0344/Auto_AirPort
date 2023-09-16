@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 19390, type: trojan, password: 9422581f-67c3-4262-9b3c-f69ddcb625dd, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-01_1 - FastFly, server: gzdx01.jcnode.top, port: 40716, type: trojan, password: 9422581f-67c3-4262-9b3c-f69ddcb625dd, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 27897, type: trojan, password: 9422581f-67c3-4262-9b3c-f69ddcb625dd, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-09 - FastFly, server: gzdx.jcnode.top, port: 17217, type: trojan, password: 9422581f-67c3-4262-9b3c-f69ddcb625dd, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-09_1 - FastFly, server: gzdx01.jcnode.top, port: 12327, type: trojan, password: 9422581f-67c3-4262-9b3c-f69ddcb625dd, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzyd.jcnode.top, port: 51840, type: trojan, password: 9422581f-67c3-4262-9b3c-f69ddcb625dd, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 19390, type: trojan, password: dca93d16-33df-4a5f-8866-e97b55ebe03d, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01_1 - FastFly, server: gzdx01.jcnode.top, port: 40716, type: trojan, password: dca93d16-33df-4a5f-8866-e97b55ebe03d, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 27897, type: trojan, password: dca93d16-33df-4a5f-8866-e97b55ebe03d, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-09 - FastFly, server: gzdx.jcnode.top, port: 17217, type: trojan, password: dca93d16-33df-4a5f-8866-e97b55ebe03d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-09_1 - FastFly, server: gzdx01.jcnode.top, port: 12327, type: trojan, password: dca93d16-33df-4a5f-8866-e97b55ebe03d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzyd.jcnode.top, port: 51840, type: trojan, password: dca93d16-33df-4a5f-8866-e97b55ebe03d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
