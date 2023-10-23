@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: cnoHPo04alcyb62r, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: cnoHPo04alcyb62r, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: fE0SJM4pApR0vI3X, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: fE0SJM4pApR0vI3X, udp: true}
