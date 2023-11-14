@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：16 天 - JCBB, server: gdct003.jcnode.top, port: 56102, type: trojan, password: f27de5a2-a8e3-40a4-8e43-482ceda12645, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.jcnode.top, port: 56102, type: trojan, password: f27de5a2-a8e3-40a4-8e43-482ceda12645, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：16 天 - JCBB, server: gdct003.jcnode.top, port: 56102, type: trojan, password: 37e950a5-8c3f-4dc5-8f1c-a6da6ec1e3f3, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.jcnode.top, port: 56102, type: trojan, password: 37e950a5-8c3f-4dc5-8f1c-a6da6ec1e3f3, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
