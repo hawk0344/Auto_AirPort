@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：9 天 - FastFly, server: gdct001.theyydsnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 95b72f2f-6fbf-4135-a387-22ab3a7d415e, udp: true}
+- {name: 距离下次重置剩余：9 天 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 95b72f2f-6fbf-4135-a387-22ab3a7d415e, udp: true}
 - {name: 距离下次重置剩余：12 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 154d78e3-446a-4ee5-a098-0957069471db, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 154d78e3-446a-4ee5-a098-0957069471db, udp: true}
 - {name: 距离下次重置剩余：9 天 - JCBB, server: gdct001.theyydsnode.top, port: 17022, type: trojan, password: 6a83200f-97ad-4d8d-b050-24c788163b2c, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
