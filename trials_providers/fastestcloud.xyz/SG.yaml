@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gdct001.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 0b399ae1-d91c-45f2-9559-ab9635403c2e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gdct003.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 0b399ae1-d91c-45f2-9559-ab9635403c2e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: shcm002.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 0b399ae1-d91c-45f2-9559-ab9635403c2e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gdct001.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 0b399ae1-d91c-45f2-9559-ab9635403c2e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: gdct003.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 0b399ae1-d91c-45f2-9559-ab9635403c2e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: shcm002.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 0b399ae1-d91c-45f2-9559-ab9635403c2e, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gdct001.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: c6cad683-8477-4c6e-b9fb-d27023bd968f, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gdct003.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: c6cad683-8477-4c6e-b9fb-d27023bd968f, udp: true}
+- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: shcm002.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: c6cad683-8477-4c6e-b9fb-d27023bd968f, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gdct001.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: c6cad683-8477-4c6e-b9fb-d27023bd968f, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: gdct003.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: c6cad683-8477-4c6e-b9fb-d27023bd968f, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: shcm002.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: c6cad683-8477-4c6e-b9fb-d27023bd968f, udp: true}

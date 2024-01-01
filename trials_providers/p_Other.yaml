@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
 proxies:
+- {name: ℹ 距离下次重置剩余：30 天 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: c6cad683-8477-4c6e-b9fb-d27023bd968f, udp: true}
 - {name: 距离下次重置剩余：12 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 154d78e3-446a-4ee5-a098-0957069471db, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 154d78e3-446a-4ee5-a098-0957069471db, udp: true}
-- {name: ℹ 距离下次重置剩余：30 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 3c25e572-37ec-4ca7-8b55-206bf33b89cf, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 3c25e572-37ec-4ca7-8b55-206bf33b89cf, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ 距离下次重置剩余：30 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: e5c04812-56ba-4fda-8977-ae62618a522b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: e5c04812-56ba-4fda-8977-ae62618a522b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: c56af58e-586e-48f3-8df4-7cee84ad0674, udp: true}
 - {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: c56af58e-586e-48f3-8df4-7cee84ad0674, udp: true}
 - {name: ℹ 新网址：sockboom.id - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
