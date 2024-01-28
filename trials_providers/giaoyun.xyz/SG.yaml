@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: gdyyds1.76po.com, port: 23658, type: trojan, password: 49bb50c6-3db5-4e9f-9112-8656c5e43b42, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: 01.svip.xn--fiqa108dbd596g538d.com, port: 22651, type: trojan, password: 49bb50c6-3db5-4e9f-9112-8656c5e43b42, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 01.svip.xn--fiqa108dbd596g538d.com, port: 23658, type: trojan, password: 854caa8e-26b7-4f89-a38e-bf8978a2667e, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: 01.svip.xn--fiqa108dbd596g538d.com, port: 22651, type: trojan, password: 854caa8e-26b7-4f89-a38e-bf8978a2667e, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
