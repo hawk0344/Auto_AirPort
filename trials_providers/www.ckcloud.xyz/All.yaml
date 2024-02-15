@@ -1,6 +1,8 @@
 %YAML 1.1
 ---
 proxies:
+- {name: ℹ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: dc4eb208-442e-49cb-b6f2-e97eb051ed6b, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: dc4eb208-442e-49cb-b6f2-e97eb051ed6b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: dc4eb208-442e-49cb-b6f2-e97eb051ed6b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gdct001.theyydsnode.top, port: 51031, type: trojan, password: dc4eb208-442e-49cb-b6f2-e97eb051ed6b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 51031, type: trojan, password: dc4eb208-442e-49cb-b6f2-e97eb051ed6b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
