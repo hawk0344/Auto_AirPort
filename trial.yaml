@@ -193,9 +193,9 @@ proxy-groups:
   - 🇭🇰 JCBB_香港13【vip1】 - JCBB
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 GCP-TW1-20240117 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20240117 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20240117 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network
   - 🇹🇼 台湾隧道1-NF-TK-GPT - giao云
   - 🇹🇼 台湾隧道2-NF-TK-GPT - giao云
   - 🇹🇼 台湾隧道3-NF-TK-GPT - giao云
@@ -534,7 +534,7 @@ proxy-groups:
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
-  - 🇦🇺 GCP-AU1-20240117 - Kangaroo✦Network
+  - 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network
   - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器
   - 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器
   - 🇲🇳 【I】蒙古 普通 A - MN - SockBoom
@@ -917,9 +917,9 @@ proxy-groups:
   proxies: &id003
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 GCP-TW1-20240117 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20240117 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20240117 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network
   - 🇹🇼 台湾隧道1-NF-TK-GPT - giao云
   - 🇹🇼 台湾隧道2-NF-TK-GPT - giao云
   - 🇹🇼 台湾隧道3-NF-TK-GPT - giao云
@@ -1148,9 +1148,9 @@ proxy-groups:
   - 🇭🇰 JCBB_香港13【vip1】 - JCBB
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 GCP-TW1-20240117 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20240117 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20240117 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network
   - 🇹🇼 台湾隧道1-NF-TK-GPT - giao云
   - 🇹🇼 台湾隧道2-NF-TK-GPT - giao云
   - 🇹🇼 台湾隧道3-NF-TK-GPT - giao云
@@ -1513,7 +1513,7 @@ proxy-groups:
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
-  - 🇦🇺 GCP-AU1-20240117 - Kangaroo✦Network
+  - 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network
   - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器
   - 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器
   - 🇲🇳 【I】蒙古 普通 A - MN - SockBoom
@@ -1732,10 +1732,10 @@ proxies:
 - {name: 🇯🇵 Oracle-JP3-20240117 - Kangaroo✦Network, server: jp3.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.pay.edu.kg}}, udp: true}
 - {name: 🇯🇵 Oracle-JP4-20240117 - Kangaroo✦Network, server: jp4.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.pay.edu.kg}}, udp: true}
 - {name: 🇯🇵 Oracle-JP5-20240117 - Kangaroo✦Network, server: jp5.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW1-20240117 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20240117 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20240117 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
-- {name: 🇦🇺 GCP-AU1-20240117 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
+- {name: 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 48dfb032-1a20-49b2-861c-0840ba088eb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 83adda63-5e1e-4486-964e-738e6c15ea3e, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 83adda63-5e1e-4486-964e-738e6c15ea3e, udp: true}
 - {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11201, type: trojan, password: 83adda63-5e1e-4486-964e-738e6c15ea3e, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
@@ -2210,9 +2210,9 @@ proxies:
 - {name: 🇺🇸 Vip2-2.广州2-美国B | 倍率x2 - 糖果, server: cngzm02.tangguo.pro, port: 51115, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133189:WmyLiw, obfs-param: '89f20133189.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇺🇸 Vip2-2.扬州-美国A | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21053, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133189:WmyLiw, obfs-param: '89f20133189.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇺🇸 Vip2-2.扬州-美国B | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21054, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133189:WmyLiw, obfs-param: '89f20133189.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: ℹ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b21407db-f76e-41bc-98ad-ad464d5fe3ad, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b21407db-f76e-41bc-98ad-ad464d5fe3ad, udp: true}
-- {name: ℹ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b21407db-f76e-41bc-98ad-ad464d5fe3ad, udp: true}
+- {name: ℹ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 41e53e1a-dc0e-4e28-bc7d-27549f0fbff3, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 41e53e1a-dc0e-4e28-bc7d-27549f0fbff3, udp: true}
+- {name: ℹ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 41e53e1a-dc0e-4e28-bc7d-27549f0fbff3, udp: true}
 - {name: 日本A🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34650, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 日本B🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
