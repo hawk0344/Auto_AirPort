@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: node000001.likeone.lol, port: 64850, type: trojan, password: 91007334-952e-4a7d-b646-60c298c7421e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: node000003.likeone.lol, port: 64850, type: trojan, password: 91007334-952e-4a7d-b646-60c298c7421e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 64850, type: trojan, password: 91007334-952e-4a7d-b646-60c298c7421e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: node000005.likeone.lol, port: 47557, type: trojan, password: 91007334-952e-4a7d-b646-60c298c7421e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: node000001.likeone.lol, port: 47557, type: trojan, password: 91007334-952e-4a7d-b646-60c298c7421e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: node000003.likeone.lol, port: 47557, type: trojan, password: 91007334-952e-4a7d-b646-60c298c7421e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: node000001.likeone.lol, port: 64850, type: trojan, password: b36b1ff7-1be9-4a6d-8087-b1e9ecd6f9ee, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: node000003.likeone.lol, port: 64850, type: trojan, password: b36b1ff7-1be9-4a6d-8087-b1e9ecd6f9ee, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 64850, type: trojan, password: b36b1ff7-1be9-4a6d-8087-b1e9ecd6f9ee, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: node000005.likeone.lol, port: 47557, type: trojan, password: b36b1ff7-1be9-4a6d-8087-b1e9ecd6f9ee, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: node000001.likeone.lol, port: 47557, type: trojan, password: b36b1ff7-1be9-4a6d-8087-b1e9ecd6f9ee, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: node000003.likeone.lol, port: 47557, type: trojan, password: b36b1ff7-1be9-4a6d-8087-b1e9ecd6f9ee, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
