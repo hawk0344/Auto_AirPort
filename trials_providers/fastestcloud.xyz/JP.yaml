@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: cbc013e7-f5f3-4595-8cde-8de88ffa25ff, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: cbc013e7-f5f3-4595-8cde-8de88ffa25ff, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: cbc013e7-f5f3-4595-8cde-8de88ffa25ff, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: cbc013e7-f5f3-4595-8cde-8de88ffa25ff, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: cbc013e7-f5f3-4595-8cde-8de88ffa25ff, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: cbc013e7-f5f3-4595-8cde-8de88ffa25ff, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: ad7efb14-bfbe-4993-a956-7a5dc8937dfa, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: ad7efb14-bfbe-4993-a956-7a5dc8937dfa, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: ad7efb14-bfbe-4993-a956-7a5dc8937dfa, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ad7efb14-bfbe-4993-a956-7a5dc8937dfa, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ad7efb14-bfbe-4993-a956-7a5dc8937dfa, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ad7efb14-bfbe-4993-a956-7a5dc8937dfa, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
