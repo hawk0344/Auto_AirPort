@@ -1770,9 +1770,9 @@ proxies:
 - {name: 🇬🇧 v2ray 英国伦敦节点VIP A-CDN - 紫云VPN服务商, server: xuk.997755.xyz, port: 443, type: vmess, uuid: c12e7a94-ddc8-3ec6-a3bc-1b20adee6c24, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: xuk.997755.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 170 - 紫云VPN服务商, server: 104.18.147.250, port: 443, type: vmess, uuid: c12e7a94-ddc8-3ec6-a3bc-1b20adee6c24, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: std.369777.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP CDN - 紫云VPN服务商, server: std.369777.xyz, port: 443, type: vmess, uuid: c12e7a94-ddc8-3ec6-a3bc-1b20adee6c24, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: std.369777.xyz}}, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 72218b52-ce70-42d1-90a9-61566cbb6bca, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 72218b52-ce70-42d1-90a9-61566cbb6bca, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 72218b52-ce70-42d1-90a9-61566cbb6bca, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 1282cb09-59c0-4129-b5e3-f3a621a5f2dd, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 1282cb09-59c0-4129-b5e3-f3a621a5f2dd, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 1282cb09-59c0-4129-b5e3-f3a621a5f2dd, udp: true}
 - {name: 🇺🇸 vip1 美国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 546d5e68-300c-4555-86af-dd824fb9b18e, udp: true}
 - {name: 🇺🇸 vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 546d5e68-300c-4555-86af-dd824fb9b18e, udp: true}
 - {name: 🇺🇸 vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 546d5e68-300c-4555-86af-dd824fb9b18e, udp: true}
@@ -2447,6 +2447,7 @@ rules:
 - DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
 - DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
 - DOMAIN,api.juliangcili.com,💩 ‍广告
+- DOMAIN-SUFFIX,anythinktech.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
