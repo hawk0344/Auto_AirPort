@@ -34,7 +34,7 @@ proxies:
 - {name: 🇹🇼 Vip2-6.专线.深台A1 | 倍率x5 - 糖果, server: cnipsz00.tangguo.pro, port: 21006, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133189:WmyLiw, obfs-param: '89f20133189.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇹🇼 Vip2-6.专线.深台A2 | 倍率x5 - 糖果, server: cnipsz00.tangguo.pro, port: 21007, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133189:WmyLiw, obfs-param: '89f20133189.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇹🇼 Vip2-6.专线.深台A3 | 倍率x5 - 糖果, server: cnipsz00.tangguo.pro, port: 21008, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133189:WmyLiw, obfs-param: '89f20133189.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: c3f91a49-122e-3cf5-995a-4066f61f1d60, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 9b3a7f5f-148e-352d-906c-37a5707eadee, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: 1b6066ad-8386-4153-bf2f-85e1074919bc, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: 1b6066ad-8386-4153-bf2f-85e1074919bc, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: 1b6066ad-8386-4153-bf2f-85e1074919bc, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -156,18 +156,18 @@ proxies:
 - {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 26881, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 418hk2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36529, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 36hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 25871, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 35tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: XCvBd0a4hBCdedTP, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: 45cRd1wEfkpMbu0I, udp: true}
 - {name: 🇭🇰 【IEPL-香港-0A】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34643, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 🇭🇰 【IEPL-香港-0B】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34644, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 【IEPL-香港🇭🇰-02】流媒体解锁 - 探索者, server: 603diyb.donghui.tech, port: 32336, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
@@ -236,7 +236,7 @@ proxies:
 - {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 47557, type: trojan, password: 08fcd5eb-a489-4ab9-be88-4ada08a4ea89, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 47557, type: trojan, password: 08fcd5eb-a489-4ab9-be88-4ada08a4ea89, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 47557, type: trojan, password: 08fcd5eb-a489-4ab9-be88-4ada08a4ea89, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 8d9c87f3-0cf9-3a33-b224-1f894d5beefe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 8d9c87f3-0cf9-3a33-b224-1f894d5beefe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 8d9c87f3-0cf9-3a33-b224-1f894d5beefe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 8d9c87f3-0cf9-3a33-b224-1f894d5beefe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 0b10fc2b-38a8-332a-8b12-5610102c0ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 0b10fc2b-38a8-332a-8b12-5610102c0ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 0b10fc2b-38a8-332a-8b12-5610102c0ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 0b10fc2b-38a8-332a-8b12-5610102c0ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
