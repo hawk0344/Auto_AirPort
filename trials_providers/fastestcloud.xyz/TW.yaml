@@ -1,9 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: f10003.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: 0eb30854-1ed9-421a-9567-aea35a2ccf70, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: f10001.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: 0eb30854-1ed9-421a-9567-aea35a2ccf70, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: f10002.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: 0eb30854-1ed9-421a-9567-aea35a2ccf70, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: f10003.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: 0eb30854-1ed9-421a-9567-aea35a2ccf70, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: f10001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: 0eb30854-1ed9-421a-9567-aea35a2ccf70, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: f10002.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: 0eb30854-1ed9-421a-9567-aea35a2ccf70, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: 0ee95152-1c9d-44ab-bd36-5b38f989512a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: 0ee95152-1c9d-44ab-bd36-5b38f989512a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: 0ee95152-1c9d-44ab-bd36-5b38f989512a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: 0ee95152-1c9d-44ab-bd36-5b38f989512a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
