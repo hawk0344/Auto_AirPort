@@ -1,7 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: d5d2a059-cfdc-4993-80ed-da4035cc5108, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: d5d2a059-cfdc-4993-80ed-da4035cc5108, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: d5d2a059-cfdc-4993-80ed-da4035cc5108, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: d5d2a059-cfdc-4993-80ed-da4035cc5108, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 60a09238-2217-4fe1-bc5a-090cd5591bc3, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 60a09238-2217-4fe1-bc5a-090cd5591bc3, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 57230, type: vmess, uuid: 60a09238-2217-4fe1-bc5a-090cd5591bc3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: 60a09238-2217-4fe1-bc5a-090cd5591bc3, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: 60a09238-2217-4fe1-bc5a-090cd5591bc3, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-06 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 16123, type: vmess, uuid: 60a09238-2217-4fe1-bc5a-090cd5591bc3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
