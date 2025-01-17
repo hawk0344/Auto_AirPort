@@ -2033,9 +2033,9 @@ proxies:
 - {name: 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB, server: gcdddd0003.likeone.lol, port: 58464, type: trojan, password: 08fcd5eb-a489-4ab9-be88-4ada08a4ea89, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 58464, type: trojan, password: 08fcd5eb-a489-4ab9-be88-4ada08a4ea89, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 58464, type: trojan, password: 08fcd5eb-a489-4ab9-be88-4ada08a4ea89, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: ab78a558-a9a7-4a89-ab96-45dadfcd8772, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: ab78a558-a9a7-4a89-ab96-45dadfcd8772, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: ab78a558-a9a7-4a89-ab96-45dadfcd8772, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: ab78a558-a9a7-4a89-ab96-45dadfcd8772, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: ab78a558-a9a7-4a89-ab96-45dadfcd8772, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: ab78a558-a9a7-4a89-ab96-45dadfcd8772, udp: true}
 - {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: e1f58902-064e-48c9-8839-c506f02cf5e2, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: e1f58902-064e-48c9-8839-c506f02cf5e2, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 22001, type: ss, cipher: chacha20-ietf-poly1305, password: e1f58902-064e-48c9-8839-c506f02cf5e2, udp: true}
