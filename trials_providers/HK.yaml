@@ -29,7 +29,7 @@ proxies:
 - {name: 🇭🇰 香港 08 - V2Link VPN, server: host-008.crazyspeed.xyz, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: 0d5fa745-bf25-43d0-97a9-3dae135f859d, udp: true}
 - {name: 🇭🇰 香港 09 - V2Link VPN, server: host-009.crazyspeed.xyz, port: 30509, type: ss, cipher: chacha20-ietf-poly1305, password: 0d5fa745-bf25-43d0-97a9-3dae135f859d, udp: true}
 - {name: 🇭🇰 香港 10 - V2Link VPN, server: host-010.crazyspeed.xyz, port: 30510, type: ss, cipher: chacha20-ietf-poly1305, password: 0d5fa745-bf25-43d0-97a9-3dae135f859d, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: e797f765-2f4d-31ae-a36f-34470aac9073, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: fc51434b-9852-3793-925d-b1c58c170cf7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 22267, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 418hk1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 26881, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 418hk2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 824, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: f02eb112812.download.windowsupdate.com}, udp: true}
