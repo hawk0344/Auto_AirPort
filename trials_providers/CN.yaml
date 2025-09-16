@@ -51,8 +51,8 @@ proxies:
 - {name: 🇹🇼 台湾 01 - V2Link VPN, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d5fa745-bf25-43d0-97a9-3dae135f859d, udp: true}
 - {name: 🇹🇼 台湾 02 - V2Link VPN, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 0d5fa745-bf25-43d0-97a9-3dae135f859d, udp: true}
 - {name: 🇹🇼 台湾 03 - V2Link VPN, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 0d5fa745-bf25-43d0-97a9-3dae135f859d, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 3aca0b88-bc8c-34e3-8817-1a5c1e4fec4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 3aca0b88-bc8c-34e3-8817-1a5c1e4fec4d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 69633d6c-9156-3428-a818-8fb01523df3c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 69633d6c-9156-3428-a818-8fb01523df3c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 22267, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 418hk1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 26881, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 418hk2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36529, type: trojan, password: 9e93bd19-b026-45aa-8421-3bb71fae0652, sni: 36hk.ljydw.top, skip-cert-verify: true, udp: true}
