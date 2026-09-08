@@ -46,8 +46,8 @@ proxies:
 - {name: 🇬🇧 vip1 英国-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 39788, type: trojan, password: 2c9cadd1-aa25-4dd3-a8e4-776eddf08aab, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 39788, type: trojan, password: 2c9cadd1-aa25-4dd3-a8e4-776eddf08aab, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-01 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 56394, type: vmess, uuid: 2c9cadd1-aa25-4dd3-a8e4-776eddf08aab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: aa299545-c843-3a10-96ec-4fbb9839421c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: aa299545-c843-3a10-96ec-4fbb9839421c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 7aed7ce0-cc13-3472-9ca6-f5f8ca1b8556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 7aed7ce0-cc13-3472-9ca6-f5f8ca1b8556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：12 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 154d78e3-446a-4ee5-a098-0957069471db, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 154d78e3-446a-4ee5-a098-0957069471db, udp: true}
 - {name: 🇰🇷 沪日&沪韩专线上线！付费即可使用！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 154d78e3-446a-4ee5-a098-0957069471db, udp: true}
